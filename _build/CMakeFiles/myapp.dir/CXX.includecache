@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/headers/h1.hpp
+
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/main.cpp
+iostream
+-
+headers/h1.hpp
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/headers/h1.hpp
+

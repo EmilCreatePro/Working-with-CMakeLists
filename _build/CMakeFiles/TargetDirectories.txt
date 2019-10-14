@@ -1,0 +1,8 @@
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/install/strip.dir
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/install/local.dir
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/myLibrary.dir
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/install.dir
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/list_install_components.dir
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/rebuild_cache.dir
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/myapp.dir
+/home/emilion/Desktop/facultate/sem1/IEP/lab2-cmakeProject/_build/CMakeFiles/edit_cache.dir
